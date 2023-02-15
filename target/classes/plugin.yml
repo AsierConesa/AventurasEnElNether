@@ -1,0 +1,13 @@
+api-version: 1.18
+name: AventurasEnElNether
+author: BigSmall_8
+version: 1.0
+main: com.mycompany.aventurasenelnether.Main
+description: Begin from the depths...
+commands:
+    aeen:
+        description: Usa /aeen help para obtener ayuda
+        usage: /aeen
+    recetas:
+        description: otorga el libro de recetas
+        usage: /recetas

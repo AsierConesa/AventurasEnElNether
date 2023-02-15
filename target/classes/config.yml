@@ -1,0 +1,12 @@
+reload:
+    messageIni: "&aRecargando Aventuras en el nether..."
+    messageFin: "&a¡Aventuras en el nether se ha recargado!"
+players:
+    
+# nether-spawn tries to spawn the player to a safe location arround those coordinates
+nether-spawn:
+    x: 0
+    y: 0
+    z: 0
+    world-name: "world_nether"
+isMaldicionOver: false

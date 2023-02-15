@@ -1,0 +1,15 @@
+com\mycompany\aventurasenelnether\Comandos.class
+com\mycompany\aventurasenelnether\EverySecond.class
+com\mycompany\aventurasenelnether\OnEntityDeathEvent.class
+com\mycompany\aventurasenelnether\OnBlockPlaced.class
+com\mycompany\aventurasenelnether\Resources.class
+com\mycompany\aventurasenelnether\OnItemDrop$3.class
+com\mycompany\aventurasenelnether\OnPlayerConnects.class
+com\mycompany\aventurasenelnether\OnBlockBreak.class
+com\mycompany\aventurasenelnether\OnPlayerInteractEvent.class
+com\mycompany\aventurasenelnether\OnItemDrop$2.class
+com\mycompany\aventurasenelnether\EverySecond$1.class
+com\mycompany\aventurasenelnether\OnItemDrop$1.class
+com\mycompany\aventurasenelnether\Main.class
+com\mycompany\aventurasenelnether\OnSpawnAnchorInteract.class
+com\mycompany\aventurasenelnether\OnItemDrop.class
